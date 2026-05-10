@@ -1,0 +1,34 @@
+﻿Borough;Designation;Status;Local authority;Political control;Headquarters;Area sq mi;Area km2;Population;Latitude;Longitude
+Barking and Dagenham;Outer;;Barking and Dagenham London Borough Council;Labour;Town Hall, 1 Town Square;13,93;36,1;219 992;51,5607;0,1557
+Barnet;Outer;;Barnet London Borough Council;Labour;2 Bristol Avenue, Colindale;33,49;86,7;389 101;51,6252;-0,1517
+Bexley;Outer;;Bexley London Borough Council;Conservative;Civic Offices, 2 Watling Street;23,38;60,6;247 835;51,4549;0,1505
+Brent;Outer;;Brent London Borough Council;Labour;Brent Civic Centre, Engineers Way;16,7;43,3;341 221;51,5588;-0,2817
+Bromley;Outer;;Bromley London Borough Council;Conservative;Civic Centre, Churchill Court;57,97;150,1;329 578;51,3992;0,0165
+Camden;Inner;;Camden London Borough Council;Labour;5 Pancras Square;8,4;21,8;218 049;51,529;-0,1255
+Croydon;Outer;;Croydon London Borough Council;No overall control;Bernard Weatherill House, Mint Walk;33,41;86,5;392 224;51,3714;-0,0977
+Ealing;Outer;;Ealing London Borough Council;Labour;Perceval House, 14-16 Uxbridge Road;21,44;55,5;369 937;51,513;-0,3089
+Enfield;Outer;;Enfield London Borough Council;Labour;Civic Centre, Silver Street;31,74;82,2;327 224;51,6538;-0,0799
+Greenwich;Inner;Royal;Greenwich London Borough Council;Labour;Woolwich Town Hall, Wellington Street;18,28;47,3;291 080;51,4892;0,0648
+Hackney;Inner;;Hackney London Borough Council;Labour;Hackney Town Hall, Mare Street;7,36;19,1;261 491;51,545;-0,0553
+Hammersmith and Fulham;Inner;;Hammersmith and Fulham London Borough Council;Labour;Town Hall, King Street;6,33;16,4;185 238;51,4927;-0,2339
+Haringey;Outer;;Haringey London Borough Council;Labour;Civic Centre, High Road;11,42;29,6;261 811;51,6;-0,1119
+Harrow;Outer;;Harrow London Borough Council;Conservative;Civic Centre, Station Road;19,49;50,5;261 185;51,5898;-0,3346
+Havering;Outer;;Havering London Borough Council;No overall control;Town Hall, Main Road;43,35;112,3;264 703;51,5812;0,1837
+Hillingdon;Outer;;Hillingdon London Borough Council;Conservative;Civic Centre, High Street;44,67;115,7;310 681;51,5441;-0,476
+Hounslow;Outer;;Hounslow London Borough Council;Labour;Hounslow House, 7 Bath Road;21,61;56;290 488;51,4746;-0,368
+Islington;Inner;;Islington London Borough Council;Labour;Customer Centre, 222 Upper Street;5,74;14,9;220 373;51,5416;-0,1022
+Kensington and Chelsea;Inner;Royal;Kensington and Chelsea London Borough Council;Conservative;The Town Hall, Hornton Street;4,68;12,1;146 154;51,502;-0,1947
+Kingston upon Thames;Outer;Royal;Kingston upon Thames London Borough Council;Liberal Democrat;Guildhall, High Street;14,38;37,2;168 302;51,4085;-0,3064
+Lambeth;Inner;;Lambeth London Borough Council;Labour;Lambeth Town Hall, Brixton Hill;10,36;26,8;316 812;51,4607;-0,1163
+Lewisham;Inner;;Lewisham London Borough Council;Labour;Town Hall, 1 Catford Road;13,57;35,1;298 653;51,4452;-0,0209
+Merton;Outer;;Merton London Borough Council;Labour;Civic Centre, London Road;14,52;37,6;210 709;51,4014;-0,1958
+Newham;Outer;;Newham London Borough Council;Labour;Newham Dockside, 1000 Dockside Road;13,98;36,2;358 645;51,5077;0,0469
+Redbridge;Outer;;Redbridge London Borough Council;Labour;Town Hall, 128-142 High Road;21,78;56,4;310 911;51,559;0,0741
+Richmond upon Thames;Outer;;Richmond upon Thames London Borough Council;Liberal Democrat;Civic Centre, 44 York Street;22,17;57,4;194 894;51,4479;-0,326
+Southwark;Inner;;Southwark London Borough Council;Labour;160 Tooley Street;11,14;28,9;311 913;51,5035;-0,0804
+Sutton;Outer;;Sutton London Borough Council;Liberal Democrat;Civic Offices, St Nicholas Way;16,93;43,8;209 602;51,3618;-0,1945
+Tower Hamlets;Inner;;Tower Hamlets London Borough Council;Independent;Town Hall, Whitechapel Road;7,63;19,8;325 789;51,5099;-0,0059
+Waltham Forest;Outer;;Waltham Forest London Borough Council;Labour;Waltham Forest Town Hall, Forest Road;14,99;38,8;275 887;51,5908;-0,0134
+Wandsworth;Inner;;Wandsworth London Borough Council;Labour;The Town Hall, Wandsworth High Street;13,23;34,3;329 035;51,4567;-0,191
+Westminster;Inner;City;Westminster City Council;Labour;Westminster City Hall, 64 Victoria Street;8,29;21,5;211 365;51,4973;-0,1372
+City of London;Inner;Sui generis/City/Ceremonial county;Corporation of London/Inner Temple/Middle Temple;Non-partisan ;Guildhall;1,12;2,9;10 847;51,5155;-0,0922
